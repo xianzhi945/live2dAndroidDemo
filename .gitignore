@@ -1,0 +1,5 @@
+*.lock
+*.bin
+*.probe
+*.uniqueId9
+*.html
