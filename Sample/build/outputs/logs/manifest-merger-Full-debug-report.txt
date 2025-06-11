@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:2:1-28:12
+MERGED from [Live2DCubismCore.aar] /Users/walker/.gradle/caches/8.11.1/transforms/d5ceaad4c4f478f617e35d476e99263e/transformed/jetified-Live2DCubismCore/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/walker/.gradle/caches/8.11.1/transforms/c77e52af36fa7475f761424f35434525/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/walker/.gradle/caches/8.11.1/transforms/eb7f555ed715d960be4b24db2138c033/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/f8f9017ff9c1cc334d5200b6d8f1d238/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:Framework:framework] /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Framework/framework/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/c12875d94092cf8c60372429c6e7987c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/walker/.gradle/caches/8.11.1/transforms/234d3e9c01d20bfc9b53d06dbd39eadb/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/walker/.gradle/caches/8.11.1/transforms/b796ee43f59e8e7077397c57a1bcc6df/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/3c3e341af92c84504c6f2dbd49a4d069/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/c38a6ef465cdd19e774493da44e58e4a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/f2ebd2b35afb0dda77d2f8f564dc4c34/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/b4656ae337afedb226052278cb45336c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/walker/.gradle/caches/8.11.1/transforms/dd651ea31e188bf3b893d631166db587/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/39cd95a004c159c95ba9f450f7a90fda/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/b2068313d1f1abe86ffda213ec2259fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/11f481fe9eaf807cc0a80c430852fcf2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/974fffe014e02b67a539dcbac066dee8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/d4d8b7aba8f12b280eac8c1057cba3e1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/59b0652bfe1c2b85e688f5976ab19eae/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/085da7626f1a92eb6260c88f5fa94282/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/walker/.gradle/caches/8.11.1/transforms/e904ad30516b7cc4f1cfb39453706087/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/5301201dbcf6891aa00a94d35c5d9954/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/c7a9eb294b363ebc18f6a4d40b81f641/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/ac054fb468d14f312d730bd5b43f68b1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/24c39c9da147372a9a11d0eb83aad967/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/d1d100cb17dedcf52ae2a31a2129dabb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/d1d3d34cce327fd2b7726f9743723855/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/walker/.gradle/caches/8.11.1/transforms/0b173f29ebf26d9a840634dc37067922/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/798623735fe608a9a70c618d3d81bac4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/b53947bbc27b502fb4b2a81c9c1863d7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/528598cad1590a0262e450974fc12753/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/5cecf80c1709594f55728685483ab6f7/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/95d7c197ee86597b2c4a2517baa29182/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/84bdbe9b1e94e2106febe34e64817c6b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/bc70ed6b022056f34645954f534ce714/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/5968d05941aed40d77a29e988a6b90a8/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/0682adc01cb0a95a4b667fc867b0071d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:4:3-6:30
+MERGED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:4:3-6:30
+MERGED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:4:3-6:30
+	android:glEsVersion
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:5:5-37
+	android:required
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:6:5-28
+application
+ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:8:3-15:17
+MERGED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:8:3-15:17
+MERGED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:8:3-15:17
+INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:8:3-26:17
+MERGED from [com.google.android.material:material:1.4.0] /Users/walker/.gradle/caches/8.11.1/transforms/c77e52af36fa7475f761424f35434525/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/walker/.gradle/caches/8.11.1/transforms/c77e52af36fa7475f761424f35434525/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/walker/.gradle/caches/8.11.1/transforms/eb7f555ed715d960be4b24db2138c033/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/walker/.gradle/caches/8.11.1/transforms/eb7f555ed715d960be4b24db2138c033/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/walker/.gradle/caches/8.11.1/transforms/e904ad30516b7cc4f1cfb39453706087/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/walker/.gradle/caches/8.11.1/transforms/e904ad30516b7cc4f1cfb39453706087/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/walker/.gradle/caches/8.11.1/transforms/0b173f29ebf26d9a840634dc37067922/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/walker/.gradle/caches/8.11.1/transforms/0b173f29ebf26d9a840634dc37067922/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/walker/.gradle/caches/8.11.1/transforms/e904ad30516b7cc4f1cfb39453706087/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:13:5-31
+	android:label
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:11:5-37
+	android:roundIcon
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:12:5-50
+	android:icon
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:10:5-39
+	android:allowBackup
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:9:5-31
+	android:theme
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/main/AndroidManifest.xml:14:5-52
+activity#com.live2d.demo.full.MainActivity
+ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:15:5-25:16
+	android:screenOrientation
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:18:7-50
+	android:exported
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:19:7-30
+	android:configChanges
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:17:7-53
+	android:name
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:16:7-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:20:7-24:23
+action#android.intent.action.MAIN
+ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:21:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml:23:19-66
+uses-sdk
+INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
+INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
+MERGED from [Live2DCubismCore.aar] /Users/walker/.gradle/caches/8.11.1/transforms/d5ceaad4c4f478f617e35d476e99263e/transformed/jetified-Live2DCubismCore/AndroidManifest.xml:5:5-7:41
+MERGED from [Live2DCubismCore.aar] /Users/walker/.gradle/caches/8.11.1/transforms/d5ceaad4c4f478f617e35d476e99263e/transformed/jetified-Live2DCubismCore/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/walker/.gradle/caches/8.11.1/transforms/c77e52af36fa7475f761424f35434525/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/walker/.gradle/caches/8.11.1/transforms/c77e52af36fa7475f761424f35434525/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/walker/.gradle/caches/8.11.1/transforms/eb7f555ed715d960be4b24db2138c033/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/walker/.gradle/caches/8.11.1/transforms/eb7f555ed715d960be4b24db2138c033/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/f8f9017ff9c1cc334d5200b6d8f1d238/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/f8f9017ff9c1cc334d5200b6d8f1d238/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:Framework:framework] /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Framework/framework/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:Framework:framework] /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Framework/framework/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/c12875d94092cf8c60372429c6e7987c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/c12875d94092cf8c60372429c6e7987c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/walker/.gradle/caches/8.11.1/transforms/234d3e9c01d20bfc9b53d06dbd39eadb/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/walker/.gradle/caches/8.11.1/transforms/234d3e9c01d20bfc9b53d06dbd39eadb/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/walker/.gradle/caches/8.11.1/transforms/b796ee43f59e8e7077397c57a1bcc6df/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/walker/.gradle/caches/8.11.1/transforms/b796ee43f59e8e7077397c57a1bcc6df/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/3c3e341af92c84504c6f2dbd49a4d069/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/3c3e341af92c84504c6f2dbd49a4d069/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/c38a6ef465cdd19e774493da44e58e4a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/c38a6ef465cdd19e774493da44e58e4a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/f2ebd2b35afb0dda77d2f8f564dc4c34/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/f2ebd2b35afb0dda77d2f8f564dc4c34/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/b4656ae337afedb226052278cb45336c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/b4656ae337afedb226052278cb45336c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/walker/.gradle/caches/8.11.1/transforms/dd651ea31e188bf3b893d631166db587/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/walker/.gradle/caches/8.11.1/transforms/dd651ea31e188bf3b893d631166db587/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/39cd95a004c159c95ba9f450f7a90fda/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/39cd95a004c159c95ba9f450f7a90fda/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/b2068313d1f1abe86ffda213ec2259fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/b2068313d1f1abe86ffda213ec2259fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/11f481fe9eaf807cc0a80c430852fcf2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/11f481fe9eaf807cc0a80c430852fcf2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/974fffe014e02b67a539dcbac066dee8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/974fffe014e02b67a539dcbac066dee8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/d4d8b7aba8f12b280eac8c1057cba3e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/d4d8b7aba8f12b280eac8c1057cba3e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/59b0652bfe1c2b85e688f5976ab19eae/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/59b0652bfe1c2b85e688f5976ab19eae/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/085da7626f1a92eb6260c88f5fa94282/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/085da7626f1a92eb6260c88f5fa94282/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/walker/.gradle/caches/8.11.1/transforms/e904ad30516b7cc4f1cfb39453706087/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/walker/.gradle/caches/8.11.1/transforms/e904ad30516b7cc4f1cfb39453706087/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/5301201dbcf6891aa00a94d35c5d9954/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/5301201dbcf6891aa00a94d35c5d9954/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/c7a9eb294b363ebc18f6a4d40b81f641/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/c7a9eb294b363ebc18f6a4d40b81f641/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/ac054fb468d14f312d730bd5b43f68b1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/ac054fb468d14f312d730bd5b43f68b1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/24c39c9da147372a9a11d0eb83aad967/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/24c39c9da147372a9a11d0eb83aad967/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/d1d100cb17dedcf52ae2a31a2129dabb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/d1d100cb17dedcf52ae2a31a2129dabb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/d1d3d34cce327fd2b7726f9743723855/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/d1d3d34cce327fd2b7726f9743723855/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/walker/.gradle/caches/8.11.1/transforms/0b173f29ebf26d9a840634dc37067922/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/walker/.gradle/caches/8.11.1/transforms/0b173f29ebf26d9a840634dc37067922/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/798623735fe608a9a70c618d3d81bac4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/798623735fe608a9a70c618d3d81bac4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/b53947bbc27b502fb4b2a81c9c1863d7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/b53947bbc27b502fb4b2a81c9c1863d7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/528598cad1590a0262e450974fc12753/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/walker/.gradle/caches/8.11.1/transforms/528598cad1590a0262e450974fc12753/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/5cecf80c1709594f55728685483ab6f7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/walker/.gradle/caches/8.11.1/transforms/5cecf80c1709594f55728685483ab6f7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/95d7c197ee86597b2c4a2517baa29182/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/95d7c197ee86597b2c4a2517baa29182/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/84bdbe9b1e94e2106febe34e64817c6b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/84bdbe9b1e94e2106febe34e64817c6b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/bc70ed6b022056f34645954f534ce714/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/bc70ed6b022056f34645954f534ce714/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/5968d05941aed40d77a29e988a6b90a8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/5968d05941aed40d77a29e988a6b90a8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/0682adc01cb0a95a4b667fc867b0071d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/walker/.gradle/caches/8.11.1/transforms/0682adc01cb0a95a4b667fc867b0071d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/walker/Documents/Git/live2d/CubismSdkForJava-5-r.4/Sample/src/Full/AndroidManifest.xml
