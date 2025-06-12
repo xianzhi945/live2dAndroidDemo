@@ -158,17 +158,17 @@ public class LAppLive2DManager {
                 model.startRandomMotion(MotionGroup.TAP_BODY.getId(), Priority.NORMAL.getPriority(), finishedMotion, beganMotion);
             }
             // 从这里追加
-            else if (model.hitTest("Right", x, y)) {
-                if (DEBUG_LOG_ENABLE) {
-                    LAppPal.printLog("hit area: [" + HitAreaName.BODY.getId() + "]");
-                }
-                model.startRandomRightHandMotion("Right", Priority.FORCE.getPriority());
-            } else if (model.hitTest("Left", x, y)) {
-                if (DEBUG_LOG_ENABLE) {
-                    LAppPal.printLog("hit area: [" + HitAreaName.BODY.getId() + "]");
-                }
-                model.startRandomLeftHandMotion("Left", Priority.FORCE.getPriority());
-            }
+//            else if (model.hitTest("Right", x, y)) {
+//                if (DEBUG_LOG_ENABLE) {
+//                    LAppPal.printLog("hit area: [" + HitAreaName.BODY.getId() + "]");
+//                }
+//                model.startRandomRightHandMotion("Right", Priority.FORCE.getPriority());
+//            } else if (model.hitTest("Left", x, y)) {
+//                if (DEBUG_LOG_ENABLE) {
+//                    LAppPal.printLog("hit area: [" + HitAreaName.BODY.getId() + "]");
+//                }
+//                model.startRandomLeftHandMotion("Left", Priority.FORCE.getPriority());
+//            }
         }
     }
 
