@@ -283,55 +283,27 @@ public class LAppModel extends CubismUserModel {
         return motionManager.startMotionPriority(motion, priority);
     }
 
-    // 通过从startMotion复制创建
-    public int startHandMotion(
-            CubismMotionManager targetManage,
-            final String group,
-            int number,
-            int priority
-    ) {
-        if (priority == LAppDefine.Priority.FORCE.getPriority()) {
-            targetManage.setReservationPriority(priority);
-        } else if (!targetManage.reserveMotion(priority)) {
-            if (debugMode) {
-                LAppPal.printLog("Cannot start motion.");
-                return -1;
-            }
-        }
-        final String fileName = modelSetting.getMotionFileName(group, number);
-        // ex) idle_0
-        String name = group + "_" + number;
-        CubismMotion motion = (CubismMotion) motions.get(name);
-        if (motion == null) {
-            // 如果没有被preLoad读取，则不播放
-            return -1;
-        }
-        if (debugMode) {
-            LAppPal.printLog("Start motion: [" + group + "_" + number + "]");
-        }
-
-        return targetManage.startMotionPriority(motion, priority);
-    }
 
 
-    // 通过startRandomMotion复制创建
-    public int startRandomRightHandMotion(final String group, int priority) {
-        if(modelSetting.getMotionCount(group) == 0){
-            return -1;
-        }
-        Random random = new Random();
-        int number = random.nextInt(Integer.MAX_VALUE) % modelSetting.getMotionCount(group);
-        return startHandMotion(rightArmMotionManager, group, number, priority);
-    }
-    // 通过startRandomMotion复制创建
-    public int startRandomLeftHandMotion(final String group, int priority) {
-        if(modelSetting.getMotionCount(group) == 0){
-            return -1;
-        }
-        Random random = new Random();
-        int number = random.nextInt(Integer.MAX_VALUE) % modelSetting.getMotionCount(group);
-        return startHandMotion(leftArmMotionManager,group,number,priority);
-    }
+//
+//    // 通过startRandomMotion复制创建
+//    public int startRandomRightHandMotion(final String group, int priority,sta) {
+//        if(modelSetting.getMotionCount(group) == 0){
+//            return -1;
+//        }
+//        Random random = new Random();
+//        int number = random.nextInt(Integer.MAX_VALUE) % modelSetting.getMotionCount(group);
+//        return startHandMotion(rightArmMotionManager, group, number, priority);
+//    }
+//    // 通过startRandomMotion复制创建
+//    public int startRandomLeftHandMotion(final String group, int priority) {
+//        if(modelSetting.getMotionCount(group) == 0){
+//            return -1;
+//        }
+//        Random random = new Random();
+//        int number = random.nextInt(Integer.MAX_VALUE) % modelSetting.getMotionCount(group);
+//        return startHandMotion(leftArmMotionManager,group,number,priority);
+//    }
 
 
     /**

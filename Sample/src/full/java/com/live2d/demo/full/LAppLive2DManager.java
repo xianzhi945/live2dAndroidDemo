@@ -58,7 +58,10 @@ public class LAppLive2DManager {
         final AssetManager assets = LAppDelegate.getInstance().getActivity().getResources().getAssets();
         try {
             String[] root = assets.list("");
-            for (String subdir: root) {
+            for (String subdir : root) {
+                if (!subdir.equals("koharu_t01")) {
+                    continue;
+                }
                 String[] files = assets.list(subdir);
                 String target = subdir + ".model3.json";
                 // フォルダと同名の.model3.jsonがあるか探索する
@@ -154,21 +157,20 @@ public class LAppLive2DManager {
                 if (DEBUG_LOG_ENABLE) {
                     LAppPal.printLog("hit area: " + HitAreaName.HEAD.getId());
                 }
-
                 model.startRandomMotion(MotionGroup.TAP_BODY.getId(), Priority.NORMAL.getPriority(), finishedMotion, beganMotion);
             }
             // 从这里追加
-//            else if (model.hitTest("Right", x, y)) {
-//                if (DEBUG_LOG_ENABLE) {
-//                    LAppPal.printLog("hit area: [" + HitAreaName.BODY.getId() + "]");
-//                }
-//                model.startRandomRightHandMotion("Right", Priority.FORCE.getPriority());
-//            } else if (model.hitTest("Left", x, y)) {
-//                if (DEBUG_LOG_ENABLE) {
-//                    LAppPal.printLog("hit area: [" + HitAreaName.BODY.getId() + "]");
-//                }
-//                model.startRandomLeftHandMotion("Left", Priority.FORCE.getPriority());
-//            }
+            else if (model.hitTest(HitAreaName.RIGHT.getId(), x, y)) {
+                if (DEBUG_LOG_ENABLE) {
+                    LAppPal.printLog("hit area: [" + HitAreaName.RIGHT.getId() + "]");
+                }
+                model.startRandomMotion(HitAreaName.RIGHT.getId(), Priority.FORCE.getPriority(), finishedMotion, beganMotion);
+            } else if (model.hitTest(HitAreaName.LEFT.getId(), x, y)) {
+                if (DEBUG_LOG_ENABLE) {
+                    LAppPal.printLog("hit area: [" + HitAreaName.LEFT.getId() + "]");
+                }
+                model.startRandomMotion(HitAreaName.LEFT.getId(), Priority.FORCE.getPriority(), finishedMotion, beganMotion);
+            }
         }
     }
 

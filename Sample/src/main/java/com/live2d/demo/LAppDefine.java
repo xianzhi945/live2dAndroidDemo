@@ -179,7 +179,9 @@ public class LAppDefine {
      */
     public enum HitAreaName {
         HEAD("Head"),
-        BODY("Body");
+        BODY("Body"),
+        LEFT("Left"),
+        RIGHT("Right");
 
         private final String id;
 
